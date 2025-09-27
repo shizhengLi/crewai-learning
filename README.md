@@ -193,13 +193,6 @@ crewai-learning/
 
 本系列文章采用 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 许可证。
 
-## 联系方式
-
-- 📧 **邮箱**：[your-email@example.com]
-- 💬 **Discord**：[Your-Discord-Username]
-- 🐙 **GitHub**：[Your-GitHub-Username]
-- 🐦 **Twitter**：[Your-Twitter-Username]
-
 ## 更新日志
 
 ### v1.0.0 (2024-01-XX)
